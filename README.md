@@ -6,7 +6,7 @@ This project focuses on data cleaning using SQL, where I worked with a layoffs d
 
 Data cleaning is one of the most important steps before analysis, and this project helped me strengthen those skills.
 
-🗂️ Dataset Structure
+📂 Dataset Structure
 
 The dataset includes fields such as:
 
